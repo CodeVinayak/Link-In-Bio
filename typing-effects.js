@@ -19,7 +19,7 @@ function typeText() {
         charIndex = 0;
         isDeleting = false;
         textIndex = (textIndex + 1) % textArray.length; // Move to the next text
-      }, 3000); // Adjust the delay before deleting (in milliseconds)
+      }, 5000); // Adjust the delay before deleting (in milliseconds)
     }
   } else {
     // Deleting text
@@ -30,7 +30,7 @@ function typeText() {
       isDeleting = false;
     }
   }
-  setTimeout(typeText, 100); // Adjust typing speed (in milliseconds)
+  setTimeout(typeText, 200); // Adjust typing speed (in milliseconds)
 }
 
 // Start typing effect
