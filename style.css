@@ -280,9 +280,10 @@ h1,h2 {
 	}
 
 	.profile img {
-		width: auto;
+		width: 175px;
 		height: 175px;
 		border-radius: 50%;
+		object-fit: cover;
 	}
 
 	.profile h2 {
