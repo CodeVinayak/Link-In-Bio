@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+	<title>Strava</title>
+	<rect width="64" height="64" rx="14" fill="#fc4c02"/>
+	<path fill="#fff" d="M29 10 15.5 38h8l5.5-11.4L34.5 38h8L29 10Zm13 24-7.8 15.5L29.6 40h-6.7L34.2 54 48.5 34H42Z"/>
+</svg>
